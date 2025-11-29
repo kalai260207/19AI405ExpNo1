@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name:  Anto Aakash M</h3>
-<h3>Register Number: 212224030003</h3>
+<h3>Name:  Kalaivani D</h3>
+<h3>Register Number: 212224060113</h3>
 
 
 <h3>AIM:</h3>
